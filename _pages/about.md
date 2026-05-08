@@ -18,12 +18,12 @@ Education
 Research Projects
 ======
 * **VR-enabled Digital System in rural construction with sustainability evaluation (2025)**
-  * *Journal paper; supervised by Dr. Ray Zhong*
+  * *Journal paper; collaborated with Dr. Ray Zhong*
   * Adaptive implementation of a VR-BIM system for renewal construction projects in rural areas.
   * Localized sustainability evaluation method (LCA) considering both carbon emission and sequestration.
   
 * **Blue Planet Rescue VR: Unite for Marine Preservation (2025)**
-  * *Conference paper; supervised by Dr. Leith K.Y. Chan*
+  * *Conference paper; project leader*
   * Developed an immersive two-player VR game combining interactive mechanics, HUD, and educational elements.
 
 * **VR-enabled intelligent space planning platform for facility layout redesign (2024)**
@@ -33,5 +33,5 @@ Research Projects
 News / Updates
 ======
 * **[Jan 2025]** Started my Ph.D. at the Department of Data and Systems Engineering, HKU!
-* **[2023]** Awarded the MSc(Eng)(IELM) Tony Reynolds Academic Excellence Prize.
+* **[Oct 2023]** Awarded the MSc(Eng)(IELM) Tony Reynolds Academic Excellence Prize.
 
