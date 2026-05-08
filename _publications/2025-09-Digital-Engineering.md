@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2025-09-Digital-Engineering
 excerpt: 'This paper is an adaptive implementation of digital system to rural construction project, which designed a localized sustainability evaluation method and the decision-making matrix for sustainable material selection process. '
-month: 2025-12
+date: 2025-12-01
 venue: 'Digital Engineering'
 # slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S2950550X25000329'
