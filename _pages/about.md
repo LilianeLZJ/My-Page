@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am **Zhengji Liang (梁政姬)**, a Ph.D. student in the Department of Data and Systems Engineering at The University of Hong Kong, where I am a member of the JC STEM Lab of Smart Cyber-Physical Industrial Systems. My work lies at the exciting intersection of human behavior, sentiment analysis, and robotics. Specifically, I focus on quantifying the unique value of human sentiment within social interactions—exploring how these emotional dynamics influence both financial investment behaviors and human-robot collaboration.
+I am **Zhengji Liang (梁政姬)**, a Ph.D. student in the Department of Data and Systems Engineering at The University of Hong Kong, where I am a member of the [JC STEM Lab of Smart Cyber-Physical Industrial Systems](https://cps.hku.hk). My work lies at the exciting intersection of human behavior, sentiment analysis, and robotics. Specifically, I focus on quantifying the unique value of human sentiment within social interactions—exploring how these emotional dynamics influence both financial investment behaviors and human-robot collaboration.
 
 Education
 ======
@@ -18,7 +18,7 @@ Education
 Research Projects
 ======
 * **VR-enabled Digital System in rural construction with sustainability evaluation (2025)**
-  * *Journal paper; collaborated with Dr. Ray Zhong*
+  * *Journal paper; collaborated with Prof. Ray Y. Zhong*
   * Adaptive implementation of a VR-BIM system for renewal construction projects in rural areas.
   * Localized sustainability evaluation method (LCA) considering both carbon emission and sequestration.
   
